@@ -1,4 +1,5 @@
-mgmt_ip: 10.0.0.1
+mgmt_ip: 10.0.2.1
+dev_configuration: 10.1.1.1
 vlans:
      red:
      	id:10
